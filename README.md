@@ -6,10 +6,10 @@ Als Eingabe erhält die Funktion eine Aufzählung von Strings. Jeder dieser Stri
 
 ##Beispiel für eine mögliche Eingabe:
 
-####Name;Strasse;Ort;Alter
-####Peter Pan;Am Hang 5;12345 Einsam;42
-####Maria Schmitz;Kölner Straße 45;50123 Köln;43
-####Paul Meier;Münchener Weg 1;87654 München;65
+###Name;Strasse;Ort;Alter
+###Peter Pan;Am Hang 5;12345 Einsam;42
+###Maria Schmitz;Kölner Straße 45;50123 Köln;43
+###Paul Meier;Münchener Weg 1;87654 München;65
 ###
 In den Eingabedaten trennt ein Semikolon innerhalb der Zeilen die einzelnen Werte voneinander. Kompliziertere CSV Mechanismen (beispielsweise ein Semikolon in den Daten), müssen nicht berücksichtigt werden. Die Eingabedaten sind immer korrekt aufgebaut, es ist keine Fehlerbehandlung erforderlich.
 
